@@ -1,3 +1,3 @@
 # Issues
 
-This repository is a public repository meant to place issues regarding all other StemVibrations repositories
+This repository is a public repository meant to place issues regarding all other StemVibrations repositories.
